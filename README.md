@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/MichaelvanLaar/MichaelvanLaar/blob/master/devcard.svg" width="400" alt="Michael van Laar’s Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/MichaelvanLaar/MichaelvanLaar/blob/main/devcard.svg" width="400" alt="Michael van Laar’s Dev Card"/></a>
 
 <!--
 **MichaelvanLaar/MichaelvanLaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
